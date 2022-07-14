@@ -1,0 +1,13 @@
+body {
+  background-color: rgb(250, 228, 215);
+  line-height: 1.5;
+}
+h1 {
+  color: rgb(41, 97, 19);
+}
+p {
+  color: black;
+}
+a {
+  color: rgb(41, 97, 19);
+}
