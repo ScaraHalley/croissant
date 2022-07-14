@@ -10,11 +10,13 @@ h1 {
 p {
   color: black;
 }
-img {
+.croissant-photo {
   display: block;
   align-items: center;
+  border-radius: 10px;
+  margin: 30px 0;
 }
-a {
+.navigation a {
   padding: 10px;
   font-size: 18px;
   color: rgb(41, 97, 19);
